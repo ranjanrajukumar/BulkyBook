@@ -1,0 +1,17 @@
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Model.dll
+C:\Users\RAJU RANJANKUSHWAHA\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Model.pdb
